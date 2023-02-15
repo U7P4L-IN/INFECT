@@ -24,15 +24,13 @@ ANONYMOUS U7P4L
  pip install mechanize
  cd $HOME 
  git clone https://github.com/U7P4L-IN/INFECT.git
-```
-#### RUN SCRIPT
-```python
+
  cd INFECT
 
-  bash INFECT.sh
+ bash INFECT.sh
 ```
 
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=INFECT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=INFECT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
