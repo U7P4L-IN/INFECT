@@ -1,4 +1,4 @@
-!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VIRUS%20INFECT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BASH%20TOOLS%20FOR%20MAKE%20VIRUS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VIRUS%20INFECT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BASH%20TOOLS%20FOR%20MAKE%20VIRUS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
 
 > Infect Any Android Device With Virus From Link In Termux
 
