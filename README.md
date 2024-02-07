@@ -33,7 +33,7 @@
 
 ### Installation >
 ### Kali Linux / Ubuntu / Parrot OS >
-``bash
+``python
 sudo apt-get update && apt-get install git
 git clone https://github.com/U7P4L-IN/INFECT.git
 cd INFECT
