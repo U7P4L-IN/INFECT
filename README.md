@@ -33,13 +33,12 @@
 
 ### Installation >
 ### Kali Linux / Ubuntu / Parrot OS >
-```python
-    sudo apt-get update && apt-get install git
-    git clone https://github.com/U7P4L-IN/INFECT.git
-    ls
-    cd INFECT
-    ls
-    sudo python3 INFECT.py
+``bash
+sudo apt-get update && apt-get install git
+git clone https://github.com/U7P4L-IN/INFECT.git
+cd INFECT
+ls
+sudo bash INFECT.sh
 ```
  
 ### INSTALL TOOL ON ROOTED TERMUX :
